@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helow", "Helow\Helow.csproj", "{541A962A-30A7-4D66-90C0-4987C66E4FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciSeries", "FibonacciSeries\FibonacciSeries.csproj", "{81560F4A-20CC-454F-A6B6-D49CB2A09931}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{541A962A-30A7-4D66-90C0-4987C66E4FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{541A962A-30A7-4D66-90C0-4987C66E4FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{541A962A-30A7-4D66-90C0-4987C66E4FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81560F4A-20CC-454F-A6B6-D49CB2A09931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81560F4A-20CC-454F-A6B6-D49CB2A09931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81560F4A-20CC-454F-A6B6-D49CB2A09931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81560F4A-20CC-454F-A6B6-D49CB2A09931}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
